@@ -6,7 +6,7 @@ Open:API-Schnittstelle und Webclient für die Schulverwaltung NRW.
 
 
 Ziel des Projekts ist die Schaffung einer Open:API-Schnittstelle für die Schulverwaltung NRW. 
-Es soll dabei die Kompatibiltät zu Schild 3.0 gewährleistet sein sowie ein eigener Webclient erstellt werden. 
+Es soll dabei die Kompatibilität zu Schild 3.0 gewährleistet sein sowie ein eigener Webclient erstellt werden. 
   
 
 Beispiel Installation der Entwicklungsumgebung in Eclipse: [README_Eclipse](README_Eclipse.md).
